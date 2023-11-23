@@ -1,4 +1,4 @@
-# Mayhem Mafia in Milan
+# Mafia Mayhem in Milan
 
 Embark on a gripping journey through the heart of Milan. This is a captivating text-based adventure game written in C++. Step into the worn AJ1s of Taz, a 20-year-old Italian with a turbulent past and a determination to protect his family at any cost.
 
